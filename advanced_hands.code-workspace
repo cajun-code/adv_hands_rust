@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "hello_world"
+		},
+		{
+			"path": "hello_bevy"
+		},
+		{
+			"path": "my_library"
+		},
+		{
+			"path": "pig"
+		}
+	],
+	"settings": {}
+}
